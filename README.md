@@ -16,7 +16,7 @@
 
 - 💬 Ask me about Deep Learning, Machine Learning, Data Science
 
-- 📫 How to reach me: arpanbnjee0205@gmail.com
+- 📫 How to reach me: 
 
 - ⚡ Fun fact: I'm Funny!
 
