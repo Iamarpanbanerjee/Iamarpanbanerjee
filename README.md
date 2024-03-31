@@ -63,7 +63,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=iamarpanbanerjee" alt="iamarpanbanerjee" /> </a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=iamarpanbanerjee&theme=tokyonight" alt="iamarpanbanerjee" /> </a> </p>
 
 <h3 align="left">Support:</h3>
 <p>
@@ -72,8 +72,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarpanbanerjee&show_icons=true&locale=en&layout=compact" alt="iamarpanbanerjee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarpanbanerjee&show_icons=true&locale=en" alt="iamarpanbanerjee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarpanbanerjee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iamarpanbanerjee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarpanbanerjee&" alt="iamarpanbanerjee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarpanbanerjee&show_icons=true&locale=en&theme=tokyonight" alt="iamarpanbanerjee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarpanbanerjee&theme=tokyonight" alt="iamarpanbanerjee" /></p>
+
